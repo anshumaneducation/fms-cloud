@@ -1,1 +1,2 @@
-## v_2
+- FMS cloud(htttps://fms.anshumantech.org) is similar to SEM cloud(htttps://sem.anshumantech.org) i.e used internet browser(chrome) on your mobile to read FMS data
+- Firebase provides storage space for website upto 1GB accessed through separate project api key and pw obtained from firebase console  project settings
